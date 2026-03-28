@@ -62,9 +62,9 @@ Peso Total das Bagagens: 45.0 kg
 
 ## Como Executar
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/AirportSystem.git
-   ```
+```bash
+git clone https://github.com/seu-usuario/AirportSystem.git
+```
 
 
 - Navegue até a pasta do projeto:
